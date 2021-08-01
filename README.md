@@ -16,7 +16,7 @@
 
 Hi, I'm Shreyash Lata, a passionate self-taught full stack developer and a computer science student from india. My enthusiasm for software lies with dreaming up ideas, empathising them and making them come true with elegant interfaces. I take great care in the design, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I am learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source, its essence.
+I am also an open-source enthusiast and maintainer. I am learning a lot from the open-source community and I love how collaboration and knowledge sharing happens through open-source (its essence).
 
 
   <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2851002/screenshots/7010015/hipster.gif" width="350" height="250" />
