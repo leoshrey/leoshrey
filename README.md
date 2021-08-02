@@ -56,7 +56,7 @@ React
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leoshrey&show_icons=true&theme=ayu-mirage" alt="leoshrey" />
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoshrey&exclude_repo=Magimera)](https://github.com/leoshrey/github-readme-stats)
+[<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoshrey&layout=compact&exclude_repo=Magimera&langs_count=8)](https://github.com/leoshrey/github-readme-stats)
 
 
 
