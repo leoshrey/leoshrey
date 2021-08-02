@@ -55,6 +55,9 @@ React
 📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leoshrey&show_icons=true&theme=ayu-mirage" alt="leoshrey" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoshrey&exclude_repo=Magimera)](https://github.com/leoshrey/github-readme-stats)
+
 
 
 
