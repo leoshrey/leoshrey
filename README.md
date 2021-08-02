@@ -1,6 +1,8 @@
 <img align="center" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### hey there  -->
+<img src = "https://www.coolgenerator.com/Data/Textdesign/202108/fea36fd23f76f9f6809bb26c2121c09f.png" width = "100px"><img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="100px">
+
 <a href="https://www.linkedin.com/in/shreyash-lata/">
   <img align="left" alt="Shreyash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
